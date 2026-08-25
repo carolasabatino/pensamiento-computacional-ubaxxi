@@ -36,7 +36,13 @@ Las prácticas se encuentran organizadas en carpetas según el orden en que fuer
 ├── Practica_01/
 ├── Practica_02/
 ├── Practica_03/
-├── ...
+├── Practica_04/
+├── Practica_05/
+├── Practica_06/
+├── Practica_07/
+├── Practica_08/
+├── Practica_09/
+├── Practica_10/
 └── README.md
 ```
 
